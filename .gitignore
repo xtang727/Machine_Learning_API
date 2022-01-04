@@ -2,6 +2,7 @@ bin/
 etc/
 include/
 share/
+datasets/zips/
 
 .DS_Store
 
