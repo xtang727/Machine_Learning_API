@@ -1,8 +1,12 @@
+app/ignored/
 bin/
 etc/
 include/
 share/
 datasets/zips/
+datasets/exports/*.json
+*.pkl
+models/
 
 .DS_Store
 
